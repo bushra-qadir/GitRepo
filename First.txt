@@ -1,1 +1,1 @@
-This is the first file I am going to add and commit.
+This is the first file I am going to commit.
